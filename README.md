@@ -16,7 +16,7 @@ For further details about my work and experience, please visit [My Website](http
 
 <p style="text-align: right;">
     
-    The website was developed by [Author](https://github.com/kedjek) 
+    The website was developed by <a href="https://github.com/kedjek">Author</a>. 
     
 </p>
 
