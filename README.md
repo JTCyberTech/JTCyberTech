@@ -10,16 +10,13 @@
 </h1>
 
         
- I am an Aspiring [Cybersecurity Analyst](https://www.linkedin.com/in/jtcybertech/)  
+I am an Aspiring [Cybersecurity Analyst](https://www.linkedin.com/in/jtcybertech/)  
 
- For further details about my work and experience, please visit [My Website](https://jcybertech.vercel.app/). 
- 
- The website was developed by [Author](https://github.com/kedjek) 
+For further details about my work and experience, please visit [My Website](https://jcybertech.vercel.app/). The website was developed by [Author](https://github.com/kedjek) 
 
 <br/>
 
 #
-
 <div align="left">
  
  ✎ I am currently employed as a **IT Helpdesk Specialist** while interning as a **Red Team Operator** and pursuing my **Master's Degree in Cybersecurity at Western Governors University.**.
