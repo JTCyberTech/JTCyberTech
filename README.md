@@ -16,15 +16,15 @@
 
 <div align="left">
  
- ✎ I’m currently working on **Hands-On Cybersecurity Projects**.
+ ✎ I am currently employed as a **IT Helpdesk Specialist** while interning as a **Red Team Operator** and pursuing my **Master's Degree in Cybersecurity at Western Governors University.**.
  
- 💻 I’m currently learning **Ethical Hacking** from TryHackMe to enhance proficiency in Capture The Flag (CTF) challenges.
+ 💻 I am currently studying for the **CompTIA CySA+** certification and am aiming to pursue advanced certifications such as **CompTIA CASP+**, **ISACA CISM**, **(ISC)² CISSP**, **Offensive Security's OSCP**, and **HackTheBox CPTS**.
 
- 🔎 I'm seeking collaborative cybersecurity projects and internship opportunities to expand my knowledge.
+ 🔎 Looking for exciting collaboration opportunities in cybersecurity and internships to level up my skills. Let’s learn and hack together!
 
- 💡 Please do not hesitate to ask me any questions.
+ 💡 Got a question? Fire away—I'm always open to chat and share insights!
 
- ⚡ Fun fact: *You can* **skydive** *without a* **parachute**, *but only* **ONCE**.
+ ⚡ Fun fact: _You can totally skydive without a parachute... but only once._ 😄
  
  </div>
 
