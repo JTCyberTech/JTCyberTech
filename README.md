@@ -15,7 +15,9 @@ I am an Aspiring [Cybersecurity Analyst](https://www.linkedin.com/in/jtcybertech
 For further details about my work and experience, please visit [My Website](https://jcybertech.vercel.app/). 
 
 <p style="text-align: right;">
+    
     The website was developed by [Author](https://github.com/kedjek) 
+    
 </p>
 
 #
