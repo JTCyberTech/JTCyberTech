@@ -88,7 +88,11 @@
 | Certification                           | Issuer                | Credential Verification                                                                | Short Description                                                                                                            |
 | --------------------------------------------| --------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | AWS Certified Cloud Practitioner        | AWS                   | [Link](https://www.credly.com/badges/9316ec55-5cc6-4da0-9582-01bb6bc13e96/public_url)  | Amazon Web Services, AWS, AWS Certification, AWS Cloud, Cloud Certification, Cloud Computing, Cloud Platform, Cloud Services |
+| Azure Fundamentals      | Microsoft                 | [Link](https://learn.microsoft.com/api/credentials/share/en-us/JeffTsui/85063A7AD8997758?sharingId=9EBCC4E6E3B0168B)  | Amazon Web Services, AWS, AWS Certification, AWS Cloud, Cloud Certification, Cloud Computing, Cloud Platform, Cloud Services |
 | Security+ ce Certification              | CompTIA               | [Link](https://www.credly.com/badges/cc131cc0-fcce-447b-a034-ffcca20fce5a)             | Access Control, CompTIA, Cryptography, Cyber Forensics, Data Security, Disaster Recovery Planning, Firewall Configuration, Malware Identification, Mobile Device Security, Network Security, Security Configuration, Security Policies, Threat Analysis, Threat Detection                              |
+
+
+
 
 <h2></h2>
 
